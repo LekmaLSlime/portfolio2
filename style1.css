@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 15px;
+    background-color: rgb(46, 139, 86);
+}
+
+H1, a, li, p{
+    color: white;
+}
+
+li{
+    margin: 5px;
+}
+
+.link-header{
+    border: white solid 2px;
+    border-radius: 5px;
+    padding: 2px;
+    font-size: 50px;
+}
+
+a:hover{
+    color: wheat;
+    transition: all 0.4s;
+}
+
+nav{
+    padding-top: 15px;
+}
+
